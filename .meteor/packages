@@ -10,3 +10,5 @@ underscore
 iron:router
 sacha:spin
 twbs:bootstrap
+ian:accounts-ui-bootstrap-3
+accounts-password
