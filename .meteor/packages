@@ -6,7 +6,7 @@
 
 meteor-platform
 insecure
-bootstrap
 underscore
 iron:router
 sacha:spin
+twbs:bootstrap
